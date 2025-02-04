@@ -15,18 +15,25 @@ The dataset consists of maternal mortality ratios for five years (2000, 2005, 20
 Using Python’s pandas library, the dataset was cleaned to ensure consistency in naming conventions and that all missing or erroneous data were handled. The dataset was then structured to enable easy comparison across regions and years.
 
 
-
 4. Exploratory Data Analysis (EDA)
 Using Seaborn and Matplotlib, various visualisations were created to compare the maternal mortality ratios across regions over five-year intervals. The following sections outline key trends and insights.
 
 4.1 General Trends Over Time
 A line plot was generated to show the changes in maternal mortality across the different regions over time. The plot clearly highlights significant improvements in certain regions while others have stagnated or worsened.
+
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/a88f608f-e0ee-446b-8629-9f143c3359fa" />
+
  
 4.2 Regional Comparison in 2020
 A bar plot was used to compare maternal mortality ratios across different regions in 2020. This visualisation highlights which regions have made the most progress and which regions are still struggling with high maternal mortality.
 
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/b1dc2e55-0237-4ced-8895-54e840ea5cc6" />
+
+
 4.3 Heatmap of MMR Across Regions and Years
 A heatmap was created to visualise the variation in maternal mortality ratios across both time and region, offering an intuitive way to see changes and disparities.
+
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/4e0fc3c0-9e90-4101-acc6-8f81fbd8e9c7" />
 
 
 5. Analysis and Discussion
